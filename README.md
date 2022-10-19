@@ -34,6 +34,6 @@ You should have all the equipment repared to start this project. Here we provide
 8. Some Jumpwires
 9. Micro USB cable
 10. Micro SD card
-11. Computer/Laptop
+11. Computer/Laptop (Windows/IOS)
 ### Software
 1. Arduino
