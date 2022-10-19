@@ -24,10 +24,10 @@ This is a tutorial for you to assemble your environment sensor. It will give you
 You should have all the equipment repared to start this project. Here we provided a list for both hardwares and softwares. 
 
 ### Hardware
-1. 
-2. 
-3. 
-4. 
+1. 6 Laser cutted wood pieces
+2. 2 3D printed pieces
+3. Air Sensor ([SEN55])(https://sensirion.com/products/catalog/SEN55/))
+4. Spectral Sensor ([AS7341](https://www.adafruit.com/product/4698))
 5. Computer/Laptop
 ### Software
 1. Arduino
