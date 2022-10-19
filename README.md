@@ -26,8 +26,14 @@ You should have all the equipment repared to start this project. Here we provide
 ### Hardware
 1. 6 Laser cutted wood pieces
 2. 2 3D printed pieces
-3. Air Sensor ([SEN55])(https://sensirion.com/products/catalog/SEN55/))
-4. Spectral Sensor ([AS7341](https://www.adafruit.com/product/4698))
-5. Computer/Laptop
+3. Air Sensor ([SEN55](https://sensirion.com/products/catalog/SEN55))
+4. Real Time Clock ([PCF8523](https://www.adafruit.com/product/5189))
+5. Spectral Sensor ([AS7341](https://www.adafruit.com/product/4698))
+6. Voltage Boost ([Qwiic Boost](https://www.sparkfun.com/products/17238))
+7. PyPortal Board ([Adafruit PyPortal](https://www.adafruit.com/product/4116))
+8. Some Jumpwires
+9. Micro USB cable
+10. Micro SD card
+11. Computer/Laptop
 ### Software
 1. Arduino
