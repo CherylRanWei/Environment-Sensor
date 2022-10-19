@@ -36,4 +36,4 @@ You should have all the equipment repared to start this project. Here we provide
 10. Micro SD card
 11. Computer/Laptop (Windows/IOS)
 ### Software
-1. Arduino
+[Arduino IDE](https://www.arduino.cc) 
